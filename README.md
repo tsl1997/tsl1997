@@ -1,8 +1,12 @@
 ### Hi there 👋
 你好，我是先圣！
+
 me是作为博客使用的，qq是作为个人生活使用的，为什么要分开呢？因为我觉得有些内容是需要放在不同的位置，工作OR生活是两个概念。
+
 听别人说一个库最多1-100G就不能继续了，所以果断的创建了一个JPG用来存储图片。
-我是一个小白，啥都不会，所以不用关注我了。
+
+我是一个小白，啥都不会，所以不用关注我了。——2021/9/2
+
 
 <!--
 **tsl1997/tsl1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
